@@ -1,16 +1,4 @@
 # Analyzing Education, Crime, and Socioeconomic Data in Chicago
-# Project Overview
-The project aims to analyze a real-world dataset obtained from the Chicago Data Portal. As a data analyst, your task is to analyze the census, crime, and school data for a specific neighborhood or district in the City of Chicago. The goal is to identify factors that impact the enrollment, safety, health, and environment ratings of schools.
-
-The dataset consists of three main datasets: Chicago Socioeconomic Indicators, Chicago Public Schools, and Chicago Crime Data. The Chicago Socioeconomic Indicators dataset provides socioeconomic indicators and a hardship index for each Chicago community area. The Chicago Public Schools dataset contains school-level performance data used to create CPS School Report Cards. The Chicago Crime Data dataset reflects reported incidents of crime in the City of Chicago.
-
-To analyze the data, you will utilize SQL queries and Python to extract relevant information and gain insights. The assignment presents a series of questions that guide you in exploring the dataset and formulating SQL queries to find answers. You will load the datasets into a database, execute SQL queries, and interpret the results.
-
-Throughout the project, you will demonstrate your proficiency in SQL, data analysis, and problem-solving. By completing this project, you will enhance your skills in data manipulation, querying, and interpretation, and contribute to the understanding of factors influencing educational outcomes in the City of Chicago.
-
-Get ready to dive into the dataset, analyze the data, and uncover valuable insights to support the non-profit organization's mission of improving educational outcomes for children and youth in the City of Chicago.
-
-# Introduction
 Welcome to the Real-World Data Analysis Assignment using SQL and Python! In this hands-on assignment, you will have the opportunity to work with a real-world dataset provided by the Chicago Data Portal.
 
 Imagine that you have been hired by a non-profit organization dedicated to improving educational outcomes for children and youth in the City of Chicago. Your role is to analyze the census, crime, and school data for a specific neighborhood or district and identify factors that impact the enrollment, safety, health, and environment ratings of schools.
@@ -22,6 +10,16 @@ To assist you in completing this assignment, a Python-based Jupyter notebook has
 By completing this assignment, you will not only enhance your SQL and data analysis skills but also contribute to the mission of improving educational outcomes for children and youth in the City of Chicago.
 
 Let's dive in and start exploring the real-world dataset to uncover valuable insights!
+# Project Overview
+The project aims to analyze a real-world dataset obtained from the Chicago Data Portal. As a data analyst, your task is to analyze the census, crime, and school data for a specific neighborhood or district in the City of Chicago. The goal is to identify factors that impact the enrollment, safety, health, and environment ratings of schools.
+
+The dataset consists of three main datasets: Chicago Socioeconomic Indicators, Chicago Public Schools, and Chicago Crime Data. The Chicago Socioeconomic Indicators dataset provides socioeconomic indicators and a hardship index for each Chicago community area. The Chicago Public Schools dataset contains school-level performance data used to create CPS School Report Cards. The Chicago Crime Data dataset reflects reported incidents of crime in the City of Chicago.
+
+To analyze the data, you will utilize SQL queries and Python to extract relevant information and gain insights. The assignment presents a series of questions that guide you in exploring the dataset and formulating SQL queries to find answers. You will load the datasets into a database, execute SQL queries, and interpret the results.
+
+Throughout the project, you will demonstrate your proficiency in SQL, data analysis, and problem-solving. By completing this project, you will enhance your skills in data manipulation, querying, and interpretation, and contribute to the understanding of factors influencing educational outcomes in the City of Chicago.
+
+Get ready to dive into the dataset, analyze the data, and uncover valuable insights to support the non-profit organization's mission of improving educational outcomes for children and youth in the City of Chicago.
 
 # Instructions:
 
