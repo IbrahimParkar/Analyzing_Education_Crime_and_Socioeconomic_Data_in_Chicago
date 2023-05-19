@@ -1,3 +1,4 @@
+# Analyzing Education, Crime, and Socioeconomic Data in Chicago
 # Project Overview
 The project aims to analyze a real-world dataset obtained from the Chicago Data Portal. As a data analyst, your task is to analyze the census, crime, and school data for a specific neighborhood or district in the City of Chicago. The goal is to identify factors that impact the enrollment, safety, health, and environment ratings of schools.
 
@@ -43,3 +44,12 @@ You can navigate through the repository and access the notebooks to start workin
 Please note that the datasets used in the project are not included in the repository. Instead, you will find links to download the datasets from external sources, such as the Chicago Data Portal. Make sure to download the datasets using the provided links and store them in the appropriate location for the code to access them correctly.
 
 Feel free to explore, analyze, and learn from the project code and datasets provided in the repository. Good luck with your analysis and enjoy working on the project!
+
+# Acknowledgements
+I would also like to extend my sincere appreciation to Coursera for offering the Data Analyst course that laid the foundation for this project. The course equipped me with essential knowledge and skills in data analysis, visualization, and presentation, which have been instrumental in the successful completion of this project.
+
+Furthermore, I am deeply grateful to IBM for their contribution to this project. Leveraging IBM Cognos Analytics as a powerful tool for creating interactive dashboards has greatly enhanced the visualization and storytelling capabilities of the data, enabling me to present my findings in a compelling and engaging manner.
+
+I would like to acknowledge and thank the open-source community and the developers of the libraries and tools used throughout this project. Their dedication to creating accessible and robust resources has played a significant role in the success of this capstone project.
+
+Lastly, I would like to express my appreciation to all individuals, mentors, and organizations who have provided guidance, assistance, and support throughout this project. Your insights and feedback have been invaluable, and I am truly grateful for your contributions.
